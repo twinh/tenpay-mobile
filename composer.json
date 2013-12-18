@@ -1,0 +1,13 @@
+{
+    "name": "twinh/tenpay-mobile",
+    "description": "财付通移动端支付接口",
+    "authors": [
+        {
+            "name": "Twin Huang",
+            "email": "twinhuang@qq.com"
+        }
+    ],
+    "require": {
+
+    }
+}
