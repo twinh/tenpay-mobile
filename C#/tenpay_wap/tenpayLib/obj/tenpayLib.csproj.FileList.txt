@@ -1,5 +1,0 @@
-obj\Debug\ResolveAssemblyReference.cache
-bin\Debug\tenpayLib.dll
-bin\Debug\tenpayLib.pdb
-obj\Debug\tenpayLib.dll
-obj\Debug\tenpayLib.pdb
