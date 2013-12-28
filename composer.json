@@ -1,7 +1,7 @@
 {
     "name": "twinh/tenpay-mobile",
     "description": "财付通移动端支付接口",
-    "version": "0.9.9",
+    "version": "0.9.10",
     "authors": [
         {
             "name": "Twin Huang",
